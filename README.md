@@ -47,7 +47,7 @@ I also remember that this was my first time hearing about most of these algorith
 # Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
-As such, many assignments and files **may not include detailed descriptions or solutions**. This is done to avoid violations, avoid doxxing myself and others, and any number of other reasons. If for any reason the full repo must be accessed, all assignments, descriptions, solutions, and class files are stored in a private version of the repo (so contact me. If you're a current student, don't bother since I won't give you access and it wouldn't help you anyway xp).
+As such, many assignments and files **may not include detailed descriptions or solutions**. This is done to avoid violations, avoid doxing myself and others, and any number of other reasons. If for any reason the full repo must be accessed, all assignments, descriptions, solutions, and class files are stored in a private version of the repo (so contact me. If you're a current student, don't bother since I won't give you access and it wouldn't help you anyway xp).
 
 If possible, portions of the class will be linked to a separate readme explaining more about the linked assignment/solution/description/other.
 
