@@ -36,7 +36,11 @@ Anyway, this class was also taught in Java.
 8. Pattern Matching - Knuth-Morris-Pratt (KMP), Boyer-moore, Rabin Karp pattern searching algorithms
 9. Graphs - Vertex Distance (minimum cumulative path cost), DFS (Depth First Search), Dijkstra's algorithm for graph path search algorithms
 ### Debrief
-I don't remember much about this class, but I do remember how aggresively annoying the Checkstyle was. That said, it earns points back because the professor and TAs had a [data structure visualization website](https://csvistool.com/about). It helped (so much) in understanding, building, and working with each data structure covered. (It was also hilarious to see that each assignment had a Vulgar/Obscene language policy on all code written and turned-in. Someone had to have turned something in truly vulgar to upset the professors and TAs...)
+I don't remember much about this class, but I do remember how aggresively annoying the Checkstyle was. 
+
+That said, it earns points back because the professor and TAs had a [data structure visualization website](https://csvistool.com/about). It helped (so much) in understanding, building, and working with each data structure covered. 
+
+(It was also hilarious to see that each assignment had a Vulgar/Obscene language policy on all code written and turned-in. Someone had to have turned something in truly vulgar to upset the professors and TAs...)
 
 I also remember that this was my first time hearing about most of these algorithms, and the hardest part of implementing the algorithms was understanding them first. 
 
