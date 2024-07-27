@@ -6,7 +6,7 @@ Lectured by Dr. Mark Moss.
 ## About
 After thinking about it a little more, I'm not sure it's a great idea to link the syllabus directly to any of my classes anyway.
 
-I'll link the [official course lising page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201302&subj_code_in=CS&crse_numb_in=1332), but I won't include any direct syllabuses(?...syllabus? syllabi?).
+I'll link the [official course listing page](https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201302&subj_code_in=CS&crse_numb_in=1332), but I won't include any direct syllabuses(?...syllabus? syllabi?).
 
 Anyway, this class was also taught in Java.
 ### Course Curriculum
